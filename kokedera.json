@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "repository": "cappuccinotogo/kokedera-theme-extension-kde",
   "generator": "https://github.com/cappuccinotogo/kokedera-theme-ports",
-  "generatorHash": "8151c12cf8cdd1cb0ad837d1cd9f297db83f1959cde46219df6edd827ec39c61",
-  "paletteHash": "5fbe2aeb639efa1e33f054415b37f4fb7b2cd3300779950362e9c55c975ce8ca",
+  "generatorHash": "c5298e887dcdaf690784fda69fe52f8b45dc1f3cd8aaf4561b47ed963b2594f6",
+  "paletteHash": "aaf788a9d397c9b4b5c60d540834143a7e97d299b28ce8adddf88f90ddce6d8b",
   "variants": [
     {
       "id": "dusk",
